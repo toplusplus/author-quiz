@@ -34,7 +34,7 @@
   "devDependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "underscore": "^1.10.2"
   }
 }
